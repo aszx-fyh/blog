@@ -1,3 +1,5 @@
+<!-- @format -->
+
 ### [powershell 变量](https://docs.microsoft.com/zh-cn/powershell/scripting/learn/ps101/using-variables-to-store-objects?view=powershell-7)
 
 > set-executionpolicy 修改执行策略
@@ -27,3 +29,18 @@ $env:abc
 #设置变量并启动node debug
 ${env:NODE_ENV}='local'; & 'C:\Program Files\nodejs\npm.cmd' 'run' 'debug' '--' '--inspect-brk'
 ```
+
+| 命令     | 说明                     | 详细情况                                  |
+| -------- | ------------------------ | ----------------------------------------- |
+| mkdir    | 创建目录                 | 只是一个空目录                            |
+| pwd      | 查看当前目录(即工作目录) | 显示绝对路径                              |
+| cd       | 更改目录                 | 其实就是进出目录的操作                    |
+| ls       | 列出目录中的内容         | 列出所有内容                              |
+| rmdir    | 删除目录                 | 删除不为空的目录需要确认                  |
+| exit     | 退出终端                 | 即关闭 PowerShell                         |
+| New-Item | 创建空文件               | 还能用来创建目录                          |
+| cp       | 复制文件                 | 从一个地方复制到另一个地方                |
+| mv       | 移动文件                 | 换一个地方放文件                          |
+| more     | 逐页查看文件             | 若内容很多，只显示一屏（按下 q 退出查看） |
+| cat      | 流文件内容显示           | 一次性全部显示                            |
+| rm       | 删除文件                 | 也可以用来删除文件夹                      |
