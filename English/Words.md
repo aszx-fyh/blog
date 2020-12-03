@@ -1,0 +1,54 @@
+-   wrap 包裹，缠绕，搂。外套，围巾
+-   textile 纺织品 ，纺织物。纺织的
+-   tender 温柔的，脆肉的，棘手的。投标
+-   emerge 出现，浮现，暴露；变的显眼
+-   resignation 辞呈，辞职信;顺从
+-   feasible 可行的，可实行的;
+-   hence 因此,所以;由此
+-   instrumental 有帮助的，起作用的；使用仪器的；用乐器演奏的；工具性的
+-   collaborate 合作；协作；通敌
+-   classification 分类，分级，分类法；类别，级别
+-   triangular 三角形的；涉及三方的
+-   really 实际上 ，事实上；真正地
+-   rarely 很少地 ；难得；罕有地
+-   rare 稀有的；杰出的；极度的；非常好的；稀薄的；非常；极其
+-   historical 历史的，有关历史的；有关过去事件的
+-   presence /pre z n s/ 出席，在场；存在；风度；风采
+-   expansion 扩大；扩张；发展；扩展
+-   respect 尊重，尊敬；方面，着眼点；关系 ；v. 尊敬，尊重
+-   vitality n.生机，活力，热情
+-   let's /lets/ /ts/
+-   lights n.灯光 v.点亮
+-   cheat vt.欺骗；骗取 vi.作弊；欺骗 n.骗子
+-   treat vt.治疗；对待；探讨 vi.请客；探讨；协商 n.请客；款待；
+-   retire vi.退休；撤退；退却；退庭 vt.退休；离开；收回 n.退休；退隐
+-   retirement n.退休；退职；退役；退休生活
+-   wisely adv. 明智地
+-   currency n.货币；通货
+-   spark n.火花；放电；微量；v.发出火花；点燃；导致
+-   delight n.高兴 vt;使高兴
+-   family n.家庭；子女；家族；adj.家庭的；适合全家的
+-   mr abbr.先生
+-   mrs n.太太
+-   introduce vt.介绍；引进；提出；采用
+-   school n.学校；学院；学派；鱼群；vt.教育
+-   schoolmate n.同学；同窗
+-   please vt.使高兴；使满意 int.请
+-   pleased adj. 高兴的；喜欢的；乐意做某事 v.满意；愿意
+-   infant n.婴儿；幼儿 adj.婴儿的；初期的；
+-   exclamation n.呼喊；惊叫；感叹词；感叹号；
+-   coordinate v.调节，配合；adj.同等的，并列的；配位的；坐标的 n.坐标；配套服装
+-   declaration n.宣布；公告；申诉书；申报
+-   increase v.增加；增大；提高；增强；
+-   increasingly adv.越来越多地；渐增地；
+-   presence n.出席，在场；存在；风度；风采
+-   exc
+-   shallow adj.不深的，浅的；肤浅的；
+-   flee (因危险而)逃走，逃掉
+-   denial n.拒绝；否定
+-   conceal v.隐瞒，隐藏；掩盖
+-   imitation n.模仿，效仿；赝品，仿品 adj.人造的，仿制的；
+-   religion n.宗教；宗教信仰
+-   religious adj.宗教的；虔诚的；严谨的；修道的；n.修道士；尼姑
+-   doubtful adj.拿不准的，不能肯定的，疑惑的，怀疑的
+-   ethnic adj.民族的；种族的
