@@ -18,6 +18,14 @@ git push <远程主机名> <本地分支名>:<远程分支名>
 *   [为什么.git/objects/pack 文件夹变得非常大，处理 git 仓库臃肿](https://www.jianshu.com/p/4f2ccb48da77)
     > git-repack - 在存储库中打包解包的对象
 *   清理.git/objects/pack 文件
+
     > 首先找出 git 中前五大的文件:git verify-pack -v .git/objects/pack/pack-\*.idx | sort -k 3 -g | tail -5
     > 第一行的字母其实相当于文件的 id,用以下命令可以找出 id 对应的文件名：git rev-list --objects --all | grep 8f10eff91bb6aa2de1f5d096ee2e1687b0eab007
     > 删除:git filter-branch --force --index-filter "git rm --cached --ignore-unmatch -r 要删除的文件" --prune-empty --tag-name-filter cat -- --all
+
+*   查看日志
+
+    > git log --oneline 只显示提交信息
+
+*   查看 object 内容
+    > git cat-file
