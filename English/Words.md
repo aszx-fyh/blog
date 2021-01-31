@@ -42,7 +42,6 @@
 -   increase v.增加；增大；提高；增强；
 -   increasingly adv.越来越多地；渐增地；
 -   presence n.出席，在场；存在；风度；风采
--   exc
 -   shallow adj.不深的，浅的；肤浅的；
 -   flee (因危险而)逃走，逃掉
 -   denial n.拒绝；否定
@@ -52,3 +51,78 @@
 -   religious adj.宗教的；虔诚的；严谨的；修道的；n.修道士；尼姑
 -   doubtful adj.拿不准的，不能肯定的，疑惑的，怀疑的
 -   ethnic adj.民族的；种族的
+-   obvious adj.明显的,显著的；平淡无奇的
+-   cumbersome adj. 笨重的；累赘的；难处理的
+-   abstract adj.纯理论的；抽象的；n.摘要；抽象的概念；抽象
+-   exact adj.准确的，精密的；精确的；vt.要求；强求；急需 vi.勒索钱财
+-   purpose n.目的；用途；意志 vt.决心；企图；打算
+-   sugar n.糖；食糖；甜言蜜语 vt.加糖于；粉饰 vi.形成糖
+-   semantical n.语义的
+-   syntactic adj.句法的；语法的；
+-   convenient adj.方便的；近便的；实用的
+-   convenience n.便利；厕所；便利的事物
+-   pattern n.模式；图案；样品 vt.模仿；以图案装饰
+-   technical adj.技术上的；工艺的；科技的；专门的
+-   newly adv.最近；最新；以新的方式
+-   legacy n.遗产；遗赠财物 ；后遗症
+-   alternative adj.供选择的；选择性的；交替的 n.二中选一；供替代的选择
+-   boilerplate n.样板文件；引用
+-   allover adj.布满全面的 n.印花布
+-   clarify vt.澄清；阐明 vi.变得清晰；得到净化
+-   paradigm n.范例；词性变化表
+-   aspect n.方向；方面；形势；外貌
+-   concrete adj. 混凝土的；实在的，具体的；有形的 vt. 使凝固；用混凝土修筑 v i. 凝结 n. 具体物；凝结物
+-   value n.价格；值，价值；vt.评价；重视；估价
+-   valuation n.评价，估价；计算
+-   evaluation n.评价 ；评估；求值
+-   maintain vt.维持；继续；维修；主张；供养
+-   maintained adj.被保持的 v.维护；维修
+-   appropriate adj.适当的；恰当的；合适的； vt.占用，拔出
+-   prior adj. 先前的；优先的
+-   violation n.违反；妨碍，侵害；违背；强奸
+-   violate vt.违反；侵犯，妨碍；亵渎
+-   generic adj.类的；一班的；属的；非商标的
+-   mechanism n.机制；原理；途径；进程；机械装置；技巧
+-   concept n.观念，概念
+-   fundament n.基础；臀部；肛门
+-   fundamental adj.基本的，根本的；n.基本原理；基本原则
+-   participate vi 参与，参加；分享 vt.分享；分担
+-   variable adj. 变量的；可变的；易变的；变异的 n.变量；可变物，可变因素
+-   outlive vt.比...经久；经受住；渡过...而存在
+-   mention vt.提到，谈到；提及；说起 n.提及，说起
+-   initial adj.最初的；字首的 vt.用姓名的首字母签名 n.词首大写字母；原始细胞
+-   initiate vt.开始，创始；发起；使初步了解 n.开始；新加入者，接受初步知识者 adj.新加入的
+-   factor n.因素；要素；代理人 vi.做代理商 vt.把...作为因素计入；代理经营；把...分解成
+-   activity n.活动；行动；活跃
+-   activate vt.刺激；使活力；使活泼 vi.激活；有活力
+-   moreover 而且；此外
+-   pseudo n.伪君子；假冒的人 adj.冒充的，假的
+-   propose vt.建议；打算，计划；求婚 vi.建议；求婚；打算
+-   regard n.注意；尊重；问候；凝视 vt.注重；看待；与...有关
+-   anymore adv.不再
+-   therefore adv.因此；所以
+-   correspond vi.符合，一致；相应；通信
+-   accord n.符合；一致；协议；自愿 vt.使一致；给予 vi.符合；一致
+-   devote v.致力于；奉献于；把...用于
+-   recall vt.召回；回想起；取消 n.召回；回忆；撤销
+-   ability n.能力，能耐；才能
+-   assume vi.设想；承担；采取 vt.假定；夺取；侵占
+-   often adv.常常，时常；往往，大多
+-   either conj.或者，要么 adv.也；而且 det.（两者之中的）任何一个；（两者之中的）各方；（用于否定句表示两者）都不 adj. 两者中任一的
+-   neither conj.也不；既不 adv.两个都不；
+-   nor conj.也不；也不是 adv.也不；也没有
+-   mostly adv.主要地；通常；多半地
+-   major adj.主要的；重要的；主修的；较多的； n.成年人；主修科目的；陆军少校 vi.主修
+-   inefficient adj.无效率的，效率低的；无能的
+-   logical adj.合逻辑的，合理的；逻辑学的
+-   quite adv.很；相当；完全
+-   beside prep.在旁边；与...相比；除...以外 adv.在附近；况且，此外
+-   cause n.原因；事业；目标 vt.引起；使遭受
+-   innovation n.创新，革新；新方法
+-   prone adj.俯卧的；有...倾向的，易于...的
+-   restriction n.限制；约束；束缚
+-   torture n.酷刑，拷问；折磨；痛苦 vt.拷打；使痛苦；折磨
+-   deteriorating v.退化，恶化
+-   noun n.名词
+-   quiz n.考查；恶作剧；课堂测验 vt.挖苦；张望；对...进行测验
+-   spinach n.菠菜

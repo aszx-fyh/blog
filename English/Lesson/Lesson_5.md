@@ -9,6 +9,6 @@ Mr. James Scott has a garage in Silbury and now he has just bought another garag
 -   gigeon
 -   cover
 -   up to now
--   spare
+-   spare adj.额外的，备用的；多余的；瘦高的；简朴的；v.饶恕；不伤害；不毁坏
 -   part
 -   urgent

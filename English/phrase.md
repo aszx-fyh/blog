@@ -1,0 +1,19 @@
+-   is known as 被称为
+-   in additional to 除...之外
+-   in addition 另外
+-   as it has been mentioned above 正如上面所提到的
+-   in case 万一，假如
+-   in contrast 与此相反；比较起来
+-   in other words 换句话说
+-   in turn 反过来
+-   at the moment of 在此刻
+-   correspond with 相符合；与...一致 ；与...通信
+-   correspond to 与...相对应 ；相当于
+-   be devoted to 致力于 ；献身于
+-   i. e. 即；换言之
+-   That is 即；就是说；换言之
+-   rather than 而不是；宁可...也不愿
+-   in particular 尤其，特别
+-   consist of 包含；由...组成；充斥着
+-   neither .... nor..
+-   ... or not 或不
