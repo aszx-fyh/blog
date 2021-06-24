@@ -8,12 +8,18 @@ git push <远程主机名> <本地分支名>:<远程分支名>
 
 > git config --global credential.helper store
 
+-   拉取代码到当前空目录,不创建新目录
+
+    >
+
 -   修改分支名称
     > git branch -m 新分支名/git branch -m 旧分支名 新分支名
 -   查看分支信息
     > git branch -v/-vv
     > git remote show origin
     > cat .git/config
+-   删除远程分支
+    > git push origin --delete branch_name
 
 *   [为什么.git/objects/pack 文件夹变得非常大，处理 git 仓库臃肿](https://www.jianshu.com/p/4f2ccb48da77)
     > git-repack - 在存储库中打包解包的对象
