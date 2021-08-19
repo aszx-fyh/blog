@@ -57,6 +57,35 @@ location / {
 }
 ```
 
+```nginx
+#允许跨域访问的域名
+map $http_origin $corsHost {
+    default 0;
+    "~http://activity.51dsrz.com" http://activity.51dsrz.com;
+    "~https://activity.51dsrz.com" http://activity.51dsrz.com;
+    "~http://h5.51dsrz.com" http://activity.51dsrz.com;
+    "~https://h5.51dsrz.com" https://h5.51dsrz.com;
+    "~http://m.51dsrz.com" http://m.51dsrz.com;
+    "~https://m.51dsrz.com" https://m.51dsrz.com;
+}
+
+server {
+    listen 80;
+    server_name xxx.com;
+    location /{
+        add_header Access-Control-Allow-Origin $corsHost always;
+        add_header Access-Control-Allow-Methods *;
+        add_header Access-Control-Allow-Headers *;
+        #用户端可以接受cookie,Access-Control-Allow-Origin不能为*
+        add_header Access-Control-Allow-Credentials: true;
+
+        if ($request_method = 'OPTIONS') {
+           return 204;
+        }
+    }
+}
+```
+
 ## rewrite
 
 > rewrite ^/(.\*) http://www.baidu.com/ permanent; # 匹配成功后跳转到百度，执行永久 301 跳转
