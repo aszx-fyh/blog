@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "db2f65b7bf6a548a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1deedefc964f39",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "190681f7f2d23088",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1e1d3a3ad6a9cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbeb010ddbf152a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c95afef57297765c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6528eecc3099c6de",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60c05ba08aa2da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897d985d52960168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b1deedefc964f39",
+  "lastOpenFiles": [
+    "git/images/git对象关系.png",
+    "English/Lesson/Lesson_2.md",
+    "English/Lesson/Lesson_1.md",
+    "English/Lesson/Lesson_6.md",
+    "English/Lesson/Lesson_5.md",
+    "English/phrase.md",
+    "English/d.md",
+    "php/xdebug.md",
+    "Set.md",
+    "Javascript/propertyDescriptor.md"
+  ]
+}
