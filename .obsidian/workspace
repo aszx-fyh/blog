@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1deedefc964f39",
+        "id": "03eb6cf667699fbd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "音乐/歌词/至少还有你.md",
+            "mode": "source"
+          }
+        },
+        "group": "9a00e0d432497002"
+      },
+      {
+        "id": "7128d36744f2064a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "音乐/歌词/至少还有你.md",
+            "mode": "source"
+          }
+        },
+        "group": "9a00e0d432497002"
       }
     ],
     "direction": "vertical"
@@ -36,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "微微从不停歇",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "音乐/歌词/至少还有你.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b1deedefc964f39",
+  "active": "03eb6cf667699fbd",
   "lastOpenFiles": [
-    "git/images/git对象关系.png",
-    "English/Lesson/Lesson_2.md",
-    "English/Lesson/Lesson_1.md",
-    "English/Lesson/Lesson_6.md",
-    "English/Lesson/Lesson_5.md",
-    "English/phrase.md",
-    "English/d.md",
-    "php/xdebug.md",
-    "Set.md",
-    "Javascript/propertyDescriptor.md"
+    "未命名.md",
+    "音乐/歌词/我要快乐.md",
+    "音乐/歌词/未命名.md",
+    "音乐/歌词/微微.md",
+    "日常记录/支棱起来.md",
+    "日常记录/感想.md",
+    "日常记录/好物.md",
+    "日常记录/星座.md",
+    "日常记录/句子摘抄.md",
+    "日常记录/旅行.md"
   ]
 }
