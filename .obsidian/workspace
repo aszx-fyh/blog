@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7128d36744f2064a",
+        "id": "0c754c58d5db7c4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "音乐/歌词/盛夏.md",
+            "file": "夏天的风.md",
             "mode": "source"
           }
         },
-        "group": "06f34e487dc46262"
+        "group": "03562add48892157"
       },
       {
-        "id": "422e647abcccf093",
+        "id": "c3b27327e9025bb3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "音乐/歌词/盛夏.md",
+            "file": "夏天的风.md",
             "mode": "preview"
           }
         },
-        "group": "06f34e487dc46262"
+        "group": "03562add48892157"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "音乐/歌词/盛夏.md",
+                "file": "夏天的风.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7128d36744f2064a",
+  "active": "0c754c58d5db7c4b",
   "lastOpenFiles": [
-    "音乐/歌词/盛夏.md",
     "未命名.md",
+    "音乐/歌词/听你说.md",
     "音乐/歌词/一荤一素.md",
-    "日常记录/习得性无助.md",
     "音乐/歌词/至少还有你.md",
+    "音乐/歌词/淋雨一直走.md",
+    "音乐/歌词/落叶归根.md",
+    "音乐/歌词/盛夏.md",
     "音乐/歌词/我要快乐.md",
     "音乐/歌词/微微.md",
-    "日常记录/方宇航,支棱起来.md",
-    "日常记录/感想.md",
-    "日常记录/句子摘抄.md"
+    "音乐/歌词/才华有限公司.md"
   ]
 }
