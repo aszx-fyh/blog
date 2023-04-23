@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c754c58d5db7c4b",
+        "id": "d753c16423321ff5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "夏天的风.md",
-            "mode": "source"
+            "file": "IT技术/Css/权重.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "03562add48892157"
-      },
-      {
-        "id": "c3b27327e9025bb3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "夏天的风.md",
-            "mode": "preview"
-          }
-        },
-        "group": "03562add48892157"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "微微从不停歇",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294
   },
   "right": {
     "id": "6528eecc3099c6de",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "夏天的风.md",
+                "file": "IT技术/Css/权重.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 299,
     "collapsed": true
   },
-  "active": "0c754c58d5db7c4b",
+  "active": "d753c16423321ff5",
   "lastOpenFiles": [
-    "未命名.md",
-    "音乐/歌词/听你说.md",
-    "音乐/歌词/一荤一素.md",
-    "音乐/歌词/至少还有你.md",
-    "音乐/歌词/淋雨一直走.md",
-    "音乐/歌词/落叶归根.md",
-    "音乐/歌词/盛夏.md",
-    "音乐/歌词/我要快乐.md",
-    "音乐/歌词/微微.md",
-    "音乐/歌词/才华有限公司.md"
+    "IT技术/Css/权重.md",
+    "IT技术/Css/格式化上下文.md",
+    "IT技术/Css/盒子模型.md",
+    "Pasted image 20221218140131.png",
+    "IT技术/Javascript/事件与任务.md",
+    "IT技术/Javascript/核心概念.md",
+    "IT技术/演员模式（Actor pattern）.md",
+    "IT技术/code.md",
+    "IT技术/Javascript/Promise.md",
+    "IT技术/Javascript/函数.md"
   ]
 }
