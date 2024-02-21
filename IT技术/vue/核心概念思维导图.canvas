@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"51ac57e711b5c7cf","x":-495,"y":-160,"width":400,"height":600,"type":"group","label":"app.mount('#app')"},
+		{"id":"ea77d7029f3f0b8f","x":-520,"y":-460,"width":449,"height":200,"type":"group","label":"const app=createApp(Hello)"},
+		{"id":"b112343552e4ff7e","x":-64,"y":165,"width":250,"height":60,"type":"text","text":""},
+		{"id":"98c7d546b62b6ca9","type":"text","text":"Hello.vue(component)","x":-412,"y":-440,"width":250,"height":60},
+		{"id":"4385f5a439320580","x":-412,"y":-340,"width":250,"height":50,"type":"text","text":"以Hello为根组件的app"},
+		{"id":"73f434614f72c1ec","x":-455,"y":-140,"width":250,"height":60,"type":"text","text":"rootComponent(Hello)"},
+		{"id":"94746755331c3d1b","type":"text","text":"instance","x":-455,"y":100,"width":250,"height":60},
+		{"id":"90039e464c94f5af","type":"text","text":"vnode","x":-455,"y":-20,"width":250,"height":60},
+		{"id":"71e24a8c0e6b51b4","type":"text","text":"结束","x":-455,"y":320,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"4111e864640779e8","fromNode":"90039e464c94f5af","fromSide":"bottom","toNode":"94746755331c3d1b","toSide":"top","label":"createComponentInstance"},
+		{"id":"6a7aa620f494f656","fromNode":"94746755331c3d1b","fromSide":"bottom","toNode":"71e24a8c0e6b51b4","toSide":"top","label":"setupComponent(instance)\nsetupRenderEffect\n"},
+		{"id":"d7e52c4a5473b55a","fromNode":"98c7d546b62b6ca9","fromSide":"bottom","toNode":"4385f5a439320580","toSide":"top"},
+		{"id":"a25b7d9fa9cced0a","fromNode":"ea77d7029f3f0b8f","fromSide":"bottom","toNode":"51ac57e711b5c7cf","toSide":"top"},
+		{"id":"bfb8bde1f80662b2","fromNode":"73f434614f72c1ec","fromSide":"bottom","toNode":"90039e464c94f5af","toSide":"top","label":"createVNode"}
+	]
+}

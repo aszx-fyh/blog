@@ -1,0 +1,9 @@
+   DevOps is a continuous simplification process of maintaining a delicate balance among    
+functionality, usablity and security of a software both in terms of its development and operations.  Software engineering is the application of diverse engineering approaches towards the development of  software.
+
+  The roles and responsibilities of DevOps and software development overlap in many arcas. So it is 
+easier to get confused between the two.  Let's look at this comparison in term of work roles.
+  One is that of a software engineer and the other is a DevOps engineer. The biggest different is in their  focus. Software engineers focus on how well the computer software fits the needs of the client while a DevOps engineer has a broader focus that includes software development, how the software is deployed and providing operational  support through the cloud while the software is continually functional.
+   A software engineer creates computer programs for people to use based upon their security and functionality needs. A DevOps engineer also works on computer applications, but manages the building, deployment and operation as a continuous automated process. Software engineers often work separately from the operations side of a business. They create the software a business client needs and then monitor the performance of their software products to determine if upgrades are necessary or more serious improvements are needed. DevOps engineers work with the operational side of a business and manage the workflow to manage the workflow to integrate software smoothly function with automated processes.
+  
+  

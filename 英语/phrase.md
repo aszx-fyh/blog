@@ -17,3 +17,6 @@
 -   consist of 包含；由...组成；充斥着
 -   neither .... nor..
 -   ... or not 或不
+-  to be sure **诚然**, 固然, 哎呀; 毫无疑问的; 肯定地，毫无疑问地
+- take sth out of 把什么东西拿出来
+- do like 确实喜欢

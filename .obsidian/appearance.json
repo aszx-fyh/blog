@@ -1,4 +1,6 @@
 {
-  "baseFontSize": 15,
-  "accentColor": ""
+  "baseFontSize": 16,
+  "accentColor": "",
+  "interfaceFontFamily": "Cascadia Mono,华文宋体",
+  "monospaceFontFamily": "Cascadia Mono"
 }
