@@ -1,0 +1,8 @@
+All over the world, many young children believe in magic.It's just the way a child's mind works. As we get older, many of us lose our ability to believe in magic. But while we are young, anything is possible.
+
+In Canada, yound children believe in a magical character known as the "Tooth Fariy". The Tooth ==Fariy(n.仙子，小精灵；adj.仙女的)== is a small ==creature(n.生物，动物；怪物)== with swings and very pretty. Can you guess what she does? She is responsible for taking care of children's baby teeth.
+Children get two sets of teeth. One set is called the baby teeth. Baby teeth fall out on their own as children reach the age of seven. When a baby tooth fall out, or is pulled out, children do not throw it away.
+Instead, they hide this tooth under their pillow when they go to bed. They are very excited. They think about the Tooth Fairy as they fall sleep. They truly believe that the Tooth Fairy will visit them. And best of all, they believe that she will do something special when she arrives.
+During the night, the Tooth Fairy comes and takes the tooth. But the special thing is that she leaves something behind for the children.
+She leaves money ==in place of(代替)== the tooth. When the children wake up the next morning, the first thing they do is to look at under their pillow. The tooth is gone, but there is a small amount of money in its place.
+Losing your baby teeth is ==scary(adj.骇人的，恐怖的；胆小的，易受惊吓的)==. But the Tooth Fairy makes it a lot easier. ==After all（毕竟）==, she makes a trade. And in a few weeks, a new tooth will start to grow in your mouth.
