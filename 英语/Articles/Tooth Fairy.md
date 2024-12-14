@@ -10,7 +10,7 @@ Losing your baby teeth is ==scary(adj.骇人的，恐怖的；胆小的，易受
 
 全世界，许多小孩子都相信魔法。
 ~~In the world,many children believe magic.~~
-All over the worl,many young children believe in magic.
+All over the world,many young children believe in magic.
 这只是孩子们思维的方式。
 ~~This is just kid's minds.~~
 It's just the way chldren's minds work.

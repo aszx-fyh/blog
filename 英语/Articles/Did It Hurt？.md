@@ -51,3 +51,51 @@ Mom reached into my mouth and took hold of the loose tooth.
 Then, mom said "Open your eyes." Do you know what? She was holding the tooth in her hand.
 我简直不敢相信。在她说话的时候，她拔出了那颗牙齿，我一点感觉都没有！
 I could not believe it! While she was talking, she pulled the tooth out and I don't feel anything at all(I don't feel a thing).
+
+
+妈妈就是妈妈。
+Moms are moms.
+当你长大的时候，你并不总是知道她们为你做了多少。
+~~As you get older,you don't always know what do for you.~~
+When you're growing up,you don't always know how much they do for you.
+她们只是妈妈。但她们也做了些很酷的事情。
+They are just moms. But they do some pretty cool things too.
+她们做了一些你一辈子都会记住的事情。
+They do things(~~something~~) that you remember all your life.
+我的妈妈就是这样。
+My mom was like that.
+我六岁的时候，我的一颗前门牙松动了。
+When I was six years old,One of my front teeth was loose.
+当我碰它的时候，我可以前后摆动它。
+When I touched it, I could wiggle it back and forth.
+我很害怕。
+I was scared.
+我不知道发生了什么。
+I don't know what was going on.
+所以我让妈妈看了看。  
+~~So I asked my mom to look at it.~~
+So I asked Mom to look at it.
+妈妈说我会掉光所有的牙齿。“在接下来的几年里，你所有的牙齿都会掉光。”  
+Mom said that I was going to lose all of my teeth. "In the next few years, all of your teeth will fall out."
+“我的牙齿要掉光了吗？”我哭着说。“我怎么咀嚼食物呢？”  
+"My teeth are going to fall out?" I cied. "How will I chew my food".
+妈妈笑了。“别担心，”她说。“我们每个人都有两套牙齿。你的乳牙不会持续很长时间。它们只是为你的恒牙腾出位置。”  
+Mom laughed. "Don't worry" she said. "Each of us gets two sets of teeth. Your baby teeth are not designed to last a long time. They are there just to make a place for your permanent teeth to come in."
+然而，我还是很担心。“会很痛的，”我说，我想象着牙齿掉出来的感觉，这让我有点害怕。
+However,I still was worried. "It will hurt so much," I said, 
+I imagined how it would feel to have a tooth fall out,
+It makes me scared a little. 
+It scared me just a little.
+妈妈说她可以帮助我。她让我坐在椅子上，闭上眼睛。  
+Mom said that she could help me. She asked me to sit on a chair and close my eyes.
+妈妈伸进我的嘴里，握住了那颗松动的牙齿。  
+Mom reached into my mouth and took hold of the loose tooth.
+“闭上眼睛，”她说。“想想有趣的事。我只是检查一下这颗牙齿。”  
+"keep your eyes shut" she said. "Think about something funny. I will just check this tooth."
+然后，妈妈说：“睁开眼睛。”你知道吗？她手里拿着那颗牙齿。
+Then,mom said,"Open your eyes."~~What do you know? That tooth was in her hand.~~
+Do you know what? She was holding the tooth in her hand.
+我简直不敢相信。在她说话的时候，她拔出了那颗牙齿，我一点感觉都没有！
+I could not believe it. While she was talking, she pulled out the tooth and I don't have any feeling.
+I didn't feel a thing.
+I felt nothing at all.
